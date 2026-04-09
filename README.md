@@ -83,3 +83,10 @@ src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDY1YWF6c3J4NjZqN2FoM2x1d
 <br/>
 <br/>
 
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Elivelton0011/Elivelton0011/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Elivelton0011/Elivelton0011/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Elivelton0011/Elivelton0011/output/github-contribution-grid-snake.svg">
+</picture>
+
+
