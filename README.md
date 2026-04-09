@@ -6,6 +6,14 @@ Me chamo Elivelton, tenho 19 anos e sou natural da Paraíba. Atualmente, sou est
 
 Através da robótica, tive a oportunidade de participar de competições e conquistar resultados importantes, além de adquirir experiência prática com desenvolvimento de software, hardware e projetos tecnológicos. Essas conquistas também contribuíram para que eu obtivesse uma bolsa em uma universidade pública. Hoje, sigo estudando, desenvolvendo projetos e buscando evolução constante, com o objetivo de crescer profissionalmente e impactar positivamente a sociedade.
 
+<img 
+    align="right" 
+    alt="gif" 
+    title="gif"
+    width="150px" 
+    style="padding-right: 10px;"  
+src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDY1YWF6c3J4NjZqN2FoM2x1dGh2ODR6bDRxbXkwdGNzMmRibmF0dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TRxqZpk5pBhBUyPz7q/giphy.gif" 
+/>
 
 
 <div> 
@@ -72,19 +80,6 @@ Através da robótica, tive a oportunidade de participar de competições e conq
     src="https://www.dialhost.com.br/blog/wp-content/uploads/2019/09/C_logo-6-150x150.png" 
 />
 
-<img 
-    align="right" 
-    alt="gif" 
-    title="gif"
-    width="60px" 
-    style="padding-right: 10px;"  
-    src="https://media.tenor.com/pBM7dzGyfokAAAAj/snorlax-pixel.gif" 
-/>
-
-
-<br/>
 <br/>
 <br/>
 
-#
-<br/>
