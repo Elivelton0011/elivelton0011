@@ -72,9 +72,19 @@ Através da robótica, tive a oportunidade de participar de competições e conq
     src="https://www.dialhost.com.br/blog/wp-content/uploads/2019/09/C_logo-6-150x150.png" 
 />
 
+<img 
+    align="right" 
+    alt="gif" 
+    title="gif"
+    width="60px" 
+    style="padding-right: 10px;"  
+    src="https://media.tenor.com/pBM7dzGyfokAAAAj/snorlax-pixel.gif" 
+/>
 
 
+<br/>
 <br/>
 <br/>
 
 #
+<br/>
