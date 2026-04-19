@@ -26,7 +26,7 @@ src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDY1YWF6c3J4NjZqN2FoM2x1d
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### Linguagens e Tecnologias
 
 <img 
     align="left" 
