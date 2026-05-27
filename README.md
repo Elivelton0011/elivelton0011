@@ -65,7 +65,7 @@ src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDY1YWF6c3J4NjZqN2FoM2x1d
 <img 
     align="left" 
     alt="C" 
-    title="Python"
+    title="C++"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" 
@@ -74,7 +74,7 @@ src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDY1YWF6c3J4NjZqN2FoM2x1d
 <img 
     align="left" 
     alt="C" 
-    title="Python"
+    title="C"
     width="36px" 
     style="padding-right: 10px;" 
     src="https://www.dialhost.com.br/blog/wp-content/uploads/2019/09/C_logo-6-150x150.png" 
